@@ -7,8 +7,11 @@ Welcome to the **YoutubeCutWAV** GitHub repository! This repository contains a s
 Before you begin, ensure you have the following installed:
 
 - **Python:** You'll need Python installed on your system. You can download it from [python.org](https://www.python.org/downloads/).
+- **ffmpeg** You can download it from [ffmpeg.org](https://ffmpeg.org/download.html)
 
 ## Installation
+
+You can download it from the releases or
 
 1. Clone this repository to your local machine using:
 
